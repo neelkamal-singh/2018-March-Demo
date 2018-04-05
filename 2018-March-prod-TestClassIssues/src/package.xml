@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AERCreatedDateCaptureHandler_Test</members>
+        <members>AccountTrigger_Test</members>
+        <members>BA003_AttachProductToQLItems_Test</members>
+        <members>GE_LGT_Project_Triggers_Test</members>
+        <members>GE_LGT_SalesConcession_Test</members>
+        <members>GE_LGT_preventDuplicateAccount_Test</members>
+        <members>GE_NAS_WSFetchClaim_Test</members>
+        <members>NewApproverTest</members>
+        <members>OverrideNewTaskExtension_Test</members>
+        <members>OverrideNewTaskExtension_Test1</members>
+        <members>QuoteLineItemUpdateHelper_Test</members>
+        <members>RMATriggerHelper_Test</members>
+        <members>TestDataUtil</members>
+        <members>TestDataUtil_Test</members>
+        <name>ApexClass</name>
+    </types>
+    <version>33.0</version>
+</Package>
